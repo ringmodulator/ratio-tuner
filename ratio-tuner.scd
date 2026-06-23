@@ -19,6 +19,9 @@ Synth.new(\voice, [\root, 110, \numerator, 1, \denominator, 1]);
 // septimal minor third
 Synth.new(\voice, [\root, 110, \numerator, 7, \denominator, 6]);
 
+// major third
+Synth.new(\voice, [\root, 110, \numerator, 5, \denominator, 4]);
+
 // fifth
 Synth.new(\voice, [\root, 110, \numerator, 3, \denominator, 2]);
 
